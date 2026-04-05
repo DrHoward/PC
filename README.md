@@ -1,9 +1,11 @@
-# PC
-Windows PC scripts and tools
+# Tools
+MacOS and Windows PC scripts and tools
 
 ## Running the Scripts
 
-### copy-timestamp.ps1
+### Windows
+
+#### copy-timestamp.ps1
 1. In File Explorer, navigate to your user directory, usually `C:\Users\<YourUsername>`, then `AppData\Roaming\Microsoft\Windows\Start Menu\Programs`  
 Note: you can use `%AppData%` as a shortcut to `C:\Users\<YourUsername>\AppData\Roaming`  
 2. Create a new folder named "Shortcuts"  
